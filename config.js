@@ -151,7 +151,7 @@ var config = {
             description: '',
             location: {
               center: [28.7360,40.9860],
-                zoom: 14,
+                zoom: 13,
                 pitch: 40,
                 bearing: 0
             },
@@ -180,7 +180,7 @@ var config = {
             image: 'https://i.ibb.co/6cLhRrHj/MEF-AAP-027-BAP-PART-II-2025-07-29-11-25-43.png',
             description: '',
             location: {
-              center: [28.7360,40.9860],
+              center: [28.770,40.989],
                 zoom: 16,
                 pitch: 40,
                 bearing: 0
